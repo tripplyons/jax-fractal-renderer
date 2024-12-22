@@ -7,3 +7,7 @@ Render fractals by optimizing pixels in JAX
 | Example Fractal | Grid of Fractals |
 | --- | --- |
 | ![Example Fractal](example.png) | ![Grid of Fractals](grid.png) |
+
+## How it works
+
+Read [my blog post](https://tripplyons.com/blog/jax-fractal-renderer) for an explanation of how it works.
