@@ -1,6 +1,6 @@
 # JAX Fractal Renderer
 
-Render fractals by optimizing pixels with JAX
+Render fractals by optimizing pixels in JAX
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tripplyons/jax-fractal-renderer/blob/main/jax-fractal-renderer.ipynb)
 
